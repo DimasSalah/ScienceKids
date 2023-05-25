@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933288539837",
+    "project_id": "flutter-tubes",
+    "storage_bucket": "flutter-tubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933288539837:android:d46c361994e7b5867aa9d4",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933288539837-3lm1iocu57nbn6o7ltoodt4ign378rg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGrRzzAY93ahHsynpimGB4tPJRijlZ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933288539837-3lm1iocu57nbn6o7ltoodt4ign378rg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
