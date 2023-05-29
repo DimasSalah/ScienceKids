@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tubess
 
 A new Flutter project.
@@ -20,3 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 # ScienceKids
 # ScienceKids
 # ExploreScience
+=======
+The Flutter Atom Planetarium and Periodic Table App is a project aimed at providing users with an interactive and educational experience about atoms, planets, and the periodic table. This application will present interesting and useful information about chemical elements, planets in the Solar System, and their scientific relationships, offering an engaging learning experience.
+>>>>>>> origin/main
